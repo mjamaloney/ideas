@@ -10,3 +10,6 @@ Provide a service that companies can run on their own physical infrastructure, a
 * Stripe data across customers in with erasure encoding.
 * Test connectivity regularly off each customer.
 * Have bandwidth requirments.
+
+### Questions
+* How hot or cold is the data?  (Hopefully very cold.)
